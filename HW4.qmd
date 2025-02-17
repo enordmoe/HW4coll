@@ -1,0 +1,72 @@
+---
+title: "Math 265: Homework 4"
+subtitle: "What Major Should I Choose?"
+author: "Be Sure to Put Your Name Here"  
+date: "February 24, 2025"
+format: 
+    gfm: 
+      toc: true
+      number-depth: 3
+      theme: yeti
+---
+
+
+
+# Load packages and data
+
+```{r load-packages, message = FALSE}
+library(tidyverse)
+library(scales)
+library(fivethirtyeight)
+```
+
+# Exercises
+
+## Exercise 1
+
+Remove this text, and add your answer for Exercise 1 here.
+Add code chunks as needed.
+Don't forget to label your code chunk.
+Do not use spaces in code chunk labels.
+
+## Exercise 2
+
+Remove this text, and add your answer for Exercise 2 here.
+Add code chunks as needed.
+Don't forget to label your code chunk.
+Do not use spaces in code chunk labels.
+
+## Exercise 3
+
+Remove this text, and add your answer for Exercise 3 here.
+Add code chunks as needed.
+Don't forget to label your code chunk.
+Do not use spaces in code chunk labels.
+
+## Exercise 4
+
+...
+
+## Exercise 5
+
+...
+
+## Exercise 6
+
+...
+
+## Exercise 7
+
+...
+
+## Exercise 8
+
+...
+
+## Exercise 9
+
+...
+
+## Exercise 10
+
+...
